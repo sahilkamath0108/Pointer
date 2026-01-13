@@ -1,4 +1,4 @@
-# waWeb - WhatsApp AI Coding Assistant
+# Pointer - WhatsApp AI Coding Assistant
 
 A simple WhatsApp bot powered by Google Gemini AI that helps users build apps and websites through conversational coding assistance.
 
